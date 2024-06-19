@@ -1,5 +1,7 @@
 # Egg Timer
 
+<img src="./EggTimer/Assets.xcassets/AppIcon.appiconset/1024.png" width="20%" height="20%" />
+
 #### Get to eat your boiled eggs at your desired hardness with the Egg Timer App! 🥚😎
 
 #### Egg Timer keeps track of the cooking time, depending on which hardness you choose to cook your boiled eggs to.
