@@ -4,7 +4,7 @@ Get to eat your boiled eggs at your desired hardness with the Egg Timer App! ðŸ¥
 
 No more randomness, or causality! You are going to know how hard your eggs are going to be - no pun intended. ðŸ˜„
 
-<img src="./images/egg-timer.gif" />
+<img src="./images/egg-timer.gif" width="25%" height="25%"/>
 
 I made this app while attending and following up with Angela Yu's course on iOS Development.
 
